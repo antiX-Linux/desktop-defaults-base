@@ -1,0 +1,15 @@
+Source: desktop-defaults-base-antix
+Section: antix
+Priority: required
+Maintainer: anticapitalista <antiX@operamail.com>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: http://antix.mepis.org
+
+Package: desktop-defaults-base-antix
+Architecture: all
+Depends: apt-antix, desktop-defaults-core-antix (>= 0.4.0) 
+Recommends: slim, gparted, rox-filer, spacefm, mc, moc, mplayer2, newsbeuter, xmms, screen, gexec, feh, dillo
+Breaks: desktop-defaults-base-antix (<< 0.4.0), desktop-defaults-core-antix (<< 0.4.0), desktop-defaults-full-antix (<< 0.4.0)
+Replaces: desktop-defaults-base-antix (<< 0.4.0), desktop-defaults-core-antix (<< 0.4.0), desktop-defaults-full-antix (<< 0.4.0)
+Description: desktop defaults for antiX base.

@@ -1,0 +1,13 @@
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+include "/usr/share/themes/Default/gtk/gtkrc"
+
+style "user-font"
+{
+font="-schumacher-clean-medium-r-normal-*-*-140-*-*-c-*-iso646.1991-irv"
+}
+  
+widget_class "*" style "user-font"
+
+include "/home/demo/.gtkrc.mine"
+
+# -- THEME AUTO-WRITTEN DO NOT EDIT
