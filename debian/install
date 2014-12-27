@@ -4,7 +4,7 @@ menus/*                        /etc/xdg/menus
 root/.[a-zA-Z]*                /root
 search-bar/*                   /usr/local/lib/search-bar
 skel/.[a-zA-Z]*                /etc/skel
-urxvt/*                        /usr/local/lib
+urxvt/*                        /usr/local/lib/urxvt
 changelog.gz                   /usr/share/doc/desktop-defaults-base-antix 
 copyright                      /usr/share/doc/desktop-defaults-base-antix 
 gparted.desktop                /usr/share/applications/antix 
