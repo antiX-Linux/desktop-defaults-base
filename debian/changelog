@@ -1,3 +1,17 @@
+desktop-defaults-base-antix (0.4.11) unstable; urgency=low
+ 
+  * Removed .xinitrc from skel
+
+ -- anticapitalista <antiX@operamail.com>  Tue, 17 Feb 2015 17:09:00 +0200
+
+
+desktop-defaults-base-antix (0.4.10) unstable; urgency=low
+ 
+  * Added clipit to config folder to avoid popup
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 09 Jan 2015 13:29:00 +0200
+
+
 desktop-defaults-base-antix (0.4.9) unstable; urgency=low
  
   * Set defalt themes for antiX-14
