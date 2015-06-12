@@ -1,3 +1,42 @@
+desktop-defaults-base-antix (0.5.1) unstable; urgency=low
+ 
+  * set gtk3 to Bluebird theme
+
+ -- anticapitalista <antiX@operamail.com>  Thu, 04 Jun 2015 00:02:00 +0200
+
+
+desktop-defaults-base-antix (0.5.0) unstable; urgency=low
+ 
+  * Ready for antiX-15
+  * Use faenza-cuppertino-icons in gtk2/3 root as well.
+  * Edit to set-desktop-theme to make changes to root theming
+  * Default theme change to light
+  * Included Trolltech.conf to match qt theme to gtk
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 24 Apr 2015 21:32:00 +0200
+
+
+desktop-defaults-base-antix (0.4.14) unstable; urgency=low
+ 
+  * Added geany config to root folder
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 03 Apr 2015 20:30:00 +0200
+
+
+desktop-defaults-base-antix (0.4.13) unstable; urgency=low
+ 
+  * Added .selectededitor to root folder
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 29 Mar 2015 21:09:00 +0200
+
+
+desktop-defaults-base-antix (0.4.12) unstable; urgency=low
+ 
+  * Changed default theme to MediterraneanGrayDark
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 25 Mar 2015 14:30:00 +0200
+
+
 desktop-defaults-base-antix (0.4.11) unstable; urgency=low
  
   * Removed .xinitrc from skel
