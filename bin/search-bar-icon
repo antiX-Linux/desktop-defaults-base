@@ -2,14 +2,21 @@
 
 icon=/usr/local/share/icons/search-bar/eye-icon.png
 default="stp"
+default_name="StartPage"
 
-menu="StartPage!stp --|DuckDuckGo!ddg --|Google!gg --|Wikipedia!wiki --"
-menu="$menu|Internet Movie Database!imdb --|Dictionary!dict-search --"
-menu="$menu|MX forums!mx --|antiX Forums!antix --|Quit!kill -9 $$"
+if [ $# -eq 2 ]; then
+    default=$1
+    default_name=$2
+fi
+
+tip="Search for highlighted text ($default_name)"
+
+menu="Start Page!stp --|Duck Duck Go!ddg --|Google!gg --|Wikipedia!wiki --"
+menu="$menu|Movies!imdb --|Dictionary!dict-search --"
+menu="$menu|MX Forums!mx --|antiX Forums!antix --|Quit!kill -9 $$"
 
 #menu=$(echo "$menu" | sed 's/--/--clipboard/g')
 
-tip="Search for highlighted text (StartPage)"
 
 # create the notification icon
 exec yad --notification              \

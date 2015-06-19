@@ -7,6 +7,6 @@ skel/.[a-zA-Z]*                /etc/skel
 urxvt/*                        /usr/local/lib/urxvt
 changelog.gz                   /usr/share/doc/desktop-defaults-base-antix 
 copyright                      /usr/share/doc/desktop-defaults-base-antix 
-gparted.desktop                /usr/share/applications/antix 
+desktop/*                      /usr/share/applications/antix 
 keymap.template                /usr/share/antiX
 

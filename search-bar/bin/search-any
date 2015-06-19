@@ -46,7 +46,7 @@ esac
 
 # If the first arg looks like a URL, go directly to it
 lower=${*,,}
-url_match=$(expr match "$lower" '^\(http\|https\|ftp\)://')
+url_match=$(expr match "$lower" '^\(http\|https\|ftp\|file\)://')
 
 if [ -n "$url_match" ]; then
     args="$*"

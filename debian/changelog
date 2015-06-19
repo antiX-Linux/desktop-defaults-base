@@ -1,3 +1,10 @@
+desktop-defaults-base-antix (0.5.2) unstable; urgency=low
+ 
+  * Minor changes to search bar including adding desktop files
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 17 Jun 2015 12:08:00 +0200
+
+
 desktop-defaults-base-antix (0.5.1) unstable; urgency=low
  
   * set gtk3 to Bluebird theme
