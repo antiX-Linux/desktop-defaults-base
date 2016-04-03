@@ -1,3 +1,19 @@
+desktop-defaults-base-antix (0.5.4) unstable; urgency=low
+ 
+  * Set gtk theme for qt apps when run as root.
+  * removed screenrc file since we are now using tmux
+
+ -- anticapitalista <antiX@operamail.com>  Tue, 15 Mar 2016 23:53:00 +0200
+
+
+desktop-defaults-base-antix (0.5.3) unstable; urgency=low
+ 
+  * Changed default wallpaper in fehbg
+  * Added some colorscheme config files for geany (thanks to skidoo)
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 11 Mar 2016 00:11:00 +0200
+
+
 desktop-defaults-base-antix (0.5.2) unstable; urgency=low
  
   * Minor changes to search bar including adding desktop files

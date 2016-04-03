@@ -1,12 +1,10 @@
-bin/*                          /usr/local/bin
-icons/*                        /usr/local/share/icons
-menus/*                        /etc/xdg/menus  
-root/.[a-zA-Z]*                /root
-search-bar/*                   /usr/local/lib/search-bar
-skel/.[a-zA-Z]*                /etc/skel
-urxvt/*                        /usr/local/lib/urxvt
-changelog.gz                   /usr/share/doc/desktop-defaults-base-antix 
-copyright                      /usr/share/doc/desktop-defaults-base-antix 
-desktop/*                      /usr/share/applications/antix 
-keymap.template                /usr/share/antiX
+bin/* 			usr/local/bin
+icons/*                 usr/local/share/icons
+menus/*                 etc/xdg/menus  
+root/.[a-zA-Z]*         root
+search-bar/*            usr/local/lib/search-bar
+skel/.[a-zA-Z]*         etc/skel
+urxvt/*                 usr/local/lib/urxvt
+desktop/*               usr/share/applications/antix 
+keymap.template         usr/share/antiX
 
