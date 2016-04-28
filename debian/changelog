@@ -1,3 +1,17 @@
+desktop-defaults-base-antix (0.5.6) unstable; urgency=medium
+
+  * Changes to urxvt font configs 
+
+ -- anticapitalista <antix@operamail.com>  Wed, 27 Apr 2016 15:22:49 +0300
+
+desktop-defaults-base-antix (0.5.5) unstable; urgency=medium
+
+  * Changed theme for volume icon to Black Gnome
+  * No theme set for geany 
+  * Added cursor_them and volume icon colour to dark/light theme changer
+
+ -- anticapitalista <antix@operamail.com>  Sat, 16 Apr 2016 13:41:05 +0300
+
 desktop-defaults-base-antix (0.5.4) unstable; urgency=low
  
   * Set gtk theme for qt apps when run as root.

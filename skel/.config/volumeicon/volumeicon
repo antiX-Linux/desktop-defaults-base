@@ -4,4 +4,4 @@ stepsize=5
 lmb_slider=true
 mmb_mute=false
 onclick=roxterm -e 'alsamixer'
-theme=Default
+theme=Black Gnome
