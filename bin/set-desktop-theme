@@ -3,8 +3,8 @@
 W_MANAGERS="fluxbox icewm jwm"
 VARS="ICONS GTK_THEME GTK3_THEME FLUX_THEME ICEWM_THEME TRAY_ICON CURSOR_THEME WALLPAPER GEANY_THEME"
 
-        DARK_ICONS="BRIT-ICONS"
-    DARK_GTK_THEME="MediterraneanDark"
+        DARK_ICONS="Faenza-Cupertino-mini"
+    DARK_GTK_THEME="Arc-Dark"
    DARK_FLUX_THEME="/usr/share/fluxbox/styles/antiX-Medium"
   DARK_ICEWM_THEME="icegil-remix-medium/default.theme"
     DARK_TRAY_ICON="White Gnome"
@@ -13,8 +13,8 @@ VARS="ICONS GTK_THEME GTK3_THEME FLUX_THEME ICEWM_THEME TRAY_ICON CURSOR_THEME W
    DARK_GEANY_THEME="zenburn.conf"
 
        LIGHT_ICONS="Faenza-Cupertino-mini"
-   LIGHT_GTK_THEME="MediterraneanWhite"
-  LIGHT_GTK3_THEME="clearlooks-phenix"
+   LIGHT_GTK_THEME="Arc"
+  LIGHT_GTK3_THEME="Arc"
   LIGHT_FLUX_THEME="/usr/share/fluxbox/styles/Radiant-antiX-Medium"
  LIGHT_ICEWM_THEME="Clearview Blue Medium/default.theme"
    LIGHT_TRAY_ICON="Black Gnome"

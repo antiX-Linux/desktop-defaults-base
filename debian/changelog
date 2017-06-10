@@ -1,3 +1,35 @@
+desktop-defaults-base-antix (0.5.11) unstable; urgency=medium
+
+  * Default wallpaper changed to metro-station
+
+ -- anticapitalista <antix@operamail.com>  Tue, 11 Apr 2017 18:17:30 +0300
+
+desktop-defaults-base-antix (0.5.10) unstable; urgency=medium
+
+  * Removed smtube config file
+
+ -- anticapitalista <antix@operamail.com>  Tue, 14 Mar 2017 23:33:37 +0200
+
+desktop-defaults-base-antix (0.5.9) unstable; urgency=medium
+
+  * Added fbxkb-start to add flag to panel if more than one keyboard layout is detected
+
+ -- anticapitalista <antix@operamail.com>  Fri, 10 Mar 2017 19:25:07 +0200
+
+desktop-defaults-base-antix (0.5.8) unstable; urgency=medium
+
+  * Added smtube config file
+
+ -- anticapitalista <antix@operamail.com>  Thu, 09 Mar 2017 13:12:31 +0200
+
+desktop-defaults-base-antix (0.5.7) unstable; urgency=medium
+
+  * New default theme - Arc
+  * volumeicon changed roxterm to lxterminal
+  * removed mplayer configs
+
+ -- anticapitalista <antix@operamail.com>  Tue, 07 Feb 2017 18:28:07 +0200
+
 desktop-defaults-base-antix (0.5.6) unstable; urgency=medium
 
   * Changes to urxvt font configs 

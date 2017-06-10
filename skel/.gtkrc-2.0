@@ -2,7 +2,7 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/demo/.gtkrc-2.0.mine"
-gtk-theme-name="MediterraneanWhite"
+gtk-theme-name="Arc"
 gtk-icon-theme-name="Faenza-Cupertino-mini"
 gtk-font-name="Sans 10"
 gtk-cursor-theme-name="DMZ-Black"
