@@ -1,3 +1,21 @@
+desktop-defaults-base-antix (0.5.14) unstable; urgency=medium
+
+  * Edits to synaptic.conf
+
+ -- anticapitalista <antix@operamail.com>  Sat, 26 Aug 2017 12:49:56 +0100
+
+desktop-defaults-base-antix (0.5.13) unstable; urgency=medium
+
+  * Revert to having scroll bar page instead of jump 
+
+ -- anticapitalista <antix@operamail.com>  Sat, 15 Jul 2017 11:34:18 +0100
+
+desktop-defaults-base-antix (0.5.12) unstable; urgency=medium
+
+  * Added synaptic.conf
+
+ -- anticapitalista <antix@operamail.com>  Sat, 01 Jul 2017 18:20:46 +0300
+
 desktop-defaults-base-antix (0.5.11) unstable; urgency=medium
 
   * Default wallpaper changed to metro-station
