@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Conky Toggle
+Icon=utilities-system-monitor
+Categories=Utility;
+Exec=conkytoggle.sh
+Terminal=false
+NoDisplay=False

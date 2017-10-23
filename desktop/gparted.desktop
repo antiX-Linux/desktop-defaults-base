@@ -207,3 +207,4 @@ Terminal=false
 Type=Application
 Categories=System;
 StartupNotify=true
+NoDisplay=False
