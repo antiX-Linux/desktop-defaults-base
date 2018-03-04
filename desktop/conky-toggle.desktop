@@ -2,6 +2,16 @@
 Encoding=UTF-8
 Type=Application
 Name=Conky Toggle
+Name[am]=ኮንኪ መቀያየሪያ
+Name[ca]=Commutador de Conky
+Name[de]=Conky-Umschalter
+Name[el]=Conky εναλλαγής
+Name[fr]=Conky marche/arrêt
+Name[it]=Attiva/disattiva Conky
+Name[nl]=Conky Wissel
+Name[pt]=Mudar de Conky
+Name[sv]=Conky Toggle
+Comment=Turn Coky on/off 
 Icon=utilities-system-monitor
 Categories=Utility;
 Exec=conkytoggle.sh

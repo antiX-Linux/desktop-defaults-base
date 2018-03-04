@@ -1,3 +1,9 @@
+desktop-defaults-base-antix (0.5.16) unstable; urgency=medium
+
+  * Improved translations to desktop file
+
+ -- anticapitalista <antix@operamail.com>  Fri, 02 Mar 2018 19:27:16 +0200
+
 desktop-defaults-base-antix (0.5.15) unstable; urgency=medium
 
   * Include search-bar in Applications menu
